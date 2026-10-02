@@ -1,5 +1,11 @@
 {
   "app": "QuickStarter2",
-  "latest": "2.3.0",
-  "released": "2026-09-30"
+  "latest": "2.4.0",
+  "released": "2026-10-02",
+  "download": {
+    "file": "QuickStarter2_v2.4.0_e19e6fa8519d5330.zip",
+    "sha256": "E19E6FA8519D53303695CAC64DFA955C17AD483AF002B18C8883502E1CC59FB9",
+    "size": 60766089,
+    "exeSha256": "A0A0FFC557903AC03A89B34B2FEDA7F3FB5B009084A4F65C5E6D96859258F000"
+  }
 }
